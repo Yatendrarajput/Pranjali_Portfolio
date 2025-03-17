@@ -36,7 +36,7 @@ const Hero = () => {
                     data-aos="zoom-in"
                     className="text-white lg:text-3xl text-xl font-semibold font-poppins"
                 >
-                    Hi, I am <span className="text-themered">Yatendra Rajput</span>
+                    Hi, I am <span className="text-themered">Pranjali Sharma</span>
                 </h1>
                 <h1
                     data-aos="zoom-in"
