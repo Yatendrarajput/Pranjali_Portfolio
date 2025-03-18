@@ -33,7 +33,7 @@ const Footer = () => {
                         <FaInstagram />
                     </a>
                     <a
-                        href="https://github.com/Yatendrarajput"
+                        href="https://github.com/Pranjali6"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-2xl hover:text-themered"
@@ -49,7 +49,7 @@ const Footer = () => {
                         <FaLinkedin />
                     </a>
                     <a
-                        href="mailto:yatendra1456@gmail.com"
+                        href="mailto:itspranjali06@gmail.com"
                         className="text-2xl hover:text-themered"
                     >
                         <FaEnvelope />
@@ -67,7 +67,7 @@ const Footer = () => {
 
                 {/* Copyright Section */}
                 <div className="text-gray-400 text-sm font-poppins">
-                    <p>&copy; {new Date().getFullYear()} Yatendra Rajput. All Rights Reserved.</p>
+                    <p>&copy; {new Date().getFullYear()} Pranjali Sharma. All Rights Reserved.</p>
                 </div>
             </div>
         </footer>

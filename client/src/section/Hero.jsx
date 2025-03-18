@@ -18,7 +18,7 @@ const Hero = () => {
 
     // Handle the "Copy Email" functionality
     const handleCopyEmail = () => {
-        const email = "yatendra1456@gmail.com"; // Replace with your actual email
+        const email = "itspranjali06@gmail.com"; // Replace with your actual email
         navigator.clipboard.writeText(email).then(() => {
             setEmailCopied(true);
             setTimeout(() => setEmailCopied(false), 3000); // Hide the pop-up after 3 seconds
@@ -70,7 +70,7 @@ const Hero = () => {
 
                     {/* Resume Button */}
                     <a
-                        href="https://drive.google.com/drive/folders/1g6CarpQrJJhYhjoz9WThUysBZ3r3OftB?usp=drive_link"  // Path to the resume file in the public folder
+                        href="https://drive.google.com/file/d/1v8YhffCbT1zkPrHQSsVaPvQEaH3vgOSy/view?usp=sharing"  // Path to the resume file in the public folder
                         target="_blank"
                         download
                         className="bg-themered hover:bg-white text-white hover:text-themered font-semibold text-lg px-6 py-3 rounded-lg font-poppins w-full lg:w-auto"

@@ -15,7 +15,7 @@ const Header = () => {
                 {/* Logo Section */}
                 <div className="flex items-center">
                     <h1 className="text-white text-2xl font-semibold ml-2">
-                        <span className="text-themered">Y</span>R.
+                        <span className="text-themered">P</span>S.
                     </h1>
                 </div>
 
