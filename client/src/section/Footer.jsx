@@ -24,14 +24,14 @@ const Footer = () => {
 
                 {/* Social Media Icons */}
                 <div className="flex gap-8 mb-6">
-                    <a
+                    {/* <a
                         href="https://www.instagram.com/_._notsogolu_._/"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-2xl hover:text-themered"
                     >
                         <FaInstagram />
-                    </a>
+                    </a> */}
                     <a
                         href="https://github.com/Pranjali6"
                         target="_blank"
@@ -41,7 +41,7 @@ const Footer = () => {
                         <FaGithub />
                     </a>
                     <a
-                        href="https://www.linkedin.com/in/yatendra-rajput-338072223/"
+                        href="https://www.linkedin.com/in/pranjali-sharma-7b1a93229/"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-2xl hover:text-themered"
@@ -55,14 +55,7 @@ const Footer = () => {
                         <FaEnvelope />
                     </a>
                     {/* New X icon for Twitter */}
-                    <a
-                        href="https://x.com/yatvs1011"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="text-2xl hover:text-themered"
-                    >
-                        <MdClose /> {/* This is the new X icon for Twitter */}
-                    </a>
+
                 </div>
 
                 {/* Copyright Section */}

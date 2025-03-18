@@ -5,7 +5,7 @@ import "aos/dist/aos.css";
 // Import Project Images
 import projectImage1 from "../assets/Project1.png"; // Example project images
 import projectImage2 from "../assets/Project2.png"; // Example project images
-// import projectImage3 from "../assets/project3.png";
+import projectImage3 from "../assets/Project3.png";
 // import projectImage4 from "../assets/project4.png"; // Add more projects if needed
 
 const Projects = () => {
@@ -54,10 +54,10 @@ const Projects = () => {
                 ),
 
             liveLink: "#",
-            githubLink: "https://github.com/Yatendrarajput/TaskSpark?tab=readme-ov-file",
+            githubLink: "https://github.com/Yatendrarajput/TabMeneur",
         },
         {
-            image: projectImage2,
+            image: projectImage3,
             title: "Travel Companion",
             description:
                 (
@@ -70,7 +70,7 @@ const Projects = () => {
                     </>
                 ),
             liveLink: "#",
-            githubLink: "#",
+            githubLink: "https://github.com/Pranjali6/Trip-Companion",
         },
         // {
         //     image: projectImage4,
