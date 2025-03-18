@@ -48,10 +48,11 @@ const Services = () => {
                         <MdOutlineDesignServices className="fill-white size-9" />
                     </div>
                     <div className="flex flex-col justify-center items-start gap-3">
-                        <h1 className="text-white font-semibold text-[26px]">Programming</h1>
+                        <h1 className="text-white font-semibold text-[26px]"> Analytics Intern- Porter</h1>
                         <p className="text-gray-300 text-[17px] font-poppins">
-                            I enjoy competitive programming in <span className='text-themered'>C++</span> on various platforms and explore problem-solving across domains.
-                            Proficient in <span className='text-themered'>Python</span> and <span className='text-themered'>JavaScript</span>, I love tackling challenges with code.
+                            Leveraged <span className='text-themered'>Python</span>, <span className='text-themered'>DBeaver</span>,
+                            and <span className='text-themered'>Metabase</span> for fraud detection and feature impact analysis. Investigated geo-spoofing, incentive abuse,
+                            and re-onboarding fraud while optimizing partner engagement through data-driven insights and dashboards.
                         </p>
                     </div>
                     <button className="text-themered hover:text-white text-[17px] font-poppins flex justify-center items-center gap-2">
@@ -69,10 +70,10 @@ const Services = () => {
                         <FaLaptopCode className="fill-white size-9" />
                     </div>
                     <div className="flex flex-col justify-center items-start gap-3">
-                        <h1 className="text-white font-semibold text-[26px]">Development</h1>
+                        <h1 className="text-white font-semibold text-[26px]">Programming</h1>
                         <p className="text-gray-300 text-[17px] font-poppins">
-                            Skilled in development with a focus on the <span className='text-themered'>MERN</span> stack, I build dynamic, scalable web applications.
-                            From crafting intuitive frontends to efficient backends, I love creating seamless digital experiences.
+                            I enjoy competitive programming in <span className='text-themered'>C++</span> on various platforms and explore problem-solving across domains.
+                            Proficient in <span className='text-themered'>Python</span> and <span className='text-themered'>JavaScript</span>, I love tackling challenges with code.
                         </p>
                     </div>
                     <Link
