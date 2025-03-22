@@ -45,9 +45,9 @@ const Projects = () => {
                 (
                     <>
                         <p>A Chrome extension designed to enhance productivity by optimizing browser tab management. Features include
-                            <span className="text-themered">tab hibernation</span> to reduce memory usage,
-                            <span className="text-themered">session management</span> for saving and restoring tabs,
-                            and <span className="text-themered">sorting</span> options
+                            <span className="text-themered"> tab hibernation </span> to reduce memory usage,
+                            <span className="text-themered"> session management</span> for saving and restoring tabs,
+                            and <span className="text-themered"> sorting</span> options
                             for efficient navigation.
                         </p>
                     </>
@@ -63,8 +63,8 @@ const Projects = () => {
                 (
                     <>
                         <p>A ReactJS-based travel assistance platform with <span className="text-themered">Google Maps</span>,
-                            <span className="text-themered">Geolocation</span>, and
-                            <span className="text-themered">weather integration</span>. It enables precise location-based searches and displays
+                            <span className="text-themered"> Geolocation</span>, and
+                            <span className="text-themered"> weather integration</span>. It enables precise location-based searches and displays
                             real-time weather conditions, improving the overall travel planning experience.
                         </p>
                     </>
