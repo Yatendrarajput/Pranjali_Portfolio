@@ -19,6 +19,10 @@ import mysql from "../assets/mysql.png"
 import git from "../assets/git.png"
 import docker from "../assets/docker.png"
 import firebase from "../assets/firebase.png"
+import meta from "../assets/meta.jpeg"
+import streamlit from "../assets/streamlit.png"
+import airflow from "../assets/airflow.png"
+import snowflake from "../assets/snowflake.png"
 // import java from "../assets/java.png";
 // import python from "../assets/python.png";
 // import angular from "../assets/angular.png";
@@ -117,6 +121,18 @@ const Skills = () => {
                 </div>
                 <div data-aos="zoom-in" className="bg-gray-800 p-6 rounded-lg flex justify-center items-center hover:scale-105 transition-all">
                     <img src={firebase} alt="React" className="w-[60px] h-[60px] object-contain" />
+                </div>
+                <div data-aos="zoom-in" className="bg-gray-800 p-6 rounded-lg flex justify-center items-center hover:scale-105 transition-all">
+                    <img src={meta} alt="React" className="w-[60px] h-[60px] object-contain" />
+                </div>
+                <div data-aos="zoom-in" className="bg-gray-800 p-6 rounded-lg flex justify-center items-center hover:scale-105 transition-all">
+                    <img src={streamlit} alt="React" className="w-[60px] h-[60px] object-contain" />
+                </div>
+                <div data-aos="zoom-in" className="bg-gray-800 p-6 rounded-lg flex justify-center items-center hover:scale-105 transition-all">
+                    <img src={airflow} alt="React" className="w-[60px] h-[60px] object-contain" />
+                </div>
+                <div data-aos="zoom-in" className="bg-gray-800 p-6 rounded-lg flex justify-center items-center hover:scale-105 transition-all">
+                    <img src={snowflake} alt="React" className="w-[60px] h-[60px] object-contain" />
                 </div>
 
 
